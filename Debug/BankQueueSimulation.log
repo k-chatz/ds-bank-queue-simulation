@@ -1,0 +1,10 @@
+﻿Build started 20/8/2015 10:26:17 πμ.
+     1>Project "C:\Users\kwsta_000\Desktop\VS-PROJECT-BankQueue\BankQueueSimulation.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BankQueueSimulation (1).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         BankQueueSimulation.vcxproj -> C:\Users\kwsta_000\Desktop\VS-PROJECT-BankQueue\Debug\BankQueueSimulation.exe
+     1>Done Building Project "C:\Users\kwsta_000\Desktop\VS-PROJECT-BankQueue\BankQueueSimulation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76
