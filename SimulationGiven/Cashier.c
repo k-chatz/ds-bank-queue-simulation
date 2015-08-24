@@ -1,7 +1,7 @@
 /***********************************************************************
 implementation file	: Cashier.c
 Author				: <Costas Chatzopoulos -1115201300202- 21/03/2015>
-Purpose				: Ylopoiisi tamia
+Purpose				: Implementation tamia
 Revision			: <Costas Chatzopoulos -1115201300202- 22/03/2015>
 ***********************************************************************/
 
