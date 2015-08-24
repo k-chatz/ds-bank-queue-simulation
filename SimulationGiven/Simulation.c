@@ -1,7 +1,7 @@
 ﻿/******************************************************************************
 implementation file	: Simulation.c
 Author				: Y. Cotronis 14/03/2015
-Purpose				: Ylopoihsh prosomoiwshs trapezas me oura,pelates,tamies.
+Purpose				: Implementation prosomoiwshs trapezas me oura,pelates,tamies.
 Revision			: <Costas Chatzopoulos -1115201300202- 23/03/2015>
 ******************************************************************************/
 
